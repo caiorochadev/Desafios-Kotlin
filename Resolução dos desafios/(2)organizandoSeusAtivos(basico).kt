@@ -13,7 +13,6 @@ fun main() {
     //TODO: Ordenar os ativos em ordem alfabética.
     ativos.sort()
 
-
     //TODO: Imprimir a lista de ativos ordenada, conforme a tabela de exemplos.
     for(ativos in ativos){
         println(ativos)
